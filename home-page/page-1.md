@@ -2,9 +2,15 @@
 
 By clicking on the `open project` button, the initial page will show the following information (this is an example and the number of variants may be different in other projects)
 
-![](../../.gitbook/assets/open-project.png)
+![](../.gitbook/assets/open-project.png)
 
 When you click the `OK` button or press `ENTER` on your keyboard, you will see the structure of the page to start applying filters to your project
+
+![](../.gitbook/assets/open-project-structure.png)
+
+### Section 1 - Filters
+
+In this section....
 
 
 
@@ -18,3 +24,11 @@ When you click the `OK` button or press `ENTER` on your keyboard, you will see t
 | Func.refGene           | <p></p><p>Position of the variant relative to the nearest gene</p><ul><li>Exonic: in the coding region of the gene</li><li>Splicing: in the 2-bp of the “splicing junction”</li><li>NcRNA: over a non-coding transcript</li><li>UTR5, UTR3: in a 5' or 3' non-translated region</li><li>upstream/donwstream: less than 1kb from the start or end of the transcription</li><li>Intergenic: in an intergenic region</li></ul> |
 | ExonicFunc.refGene     | <p></p><p>Variant effect on exonic regions</p><ul><li>Synonymous: the variant does not change the resulting protein</li><li>Missense: the variant change one amino acid on the resulting protein</li><li>Nonsense: the variant generates a stop codon</li><li>FrameshiftDeletion/Insertion: the variant cause a change on the reading frame</li></ul>                                                                       |
 | Samples \[+] Genotype  | Associate samples to genotypes. Please, move the samples to the corresponding genotype and press the filter button                                                                                                                                                                                                                                                                                                          |
+
+### Section 2 - Template Filters
+
+### Section 3 - List of applied filters
+
+### Section 4 - Filter buttons
+
+### Section 5 - Variants table

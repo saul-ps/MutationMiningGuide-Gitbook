@@ -2,7 +2,7 @@
 
 For this guide we have used the project PRJEB41088\_AngelmanTrio (link), each user will have an associated project that may be different from others, but the structure is the same for all of them
 
-![](../../.gitbook/assets/sequencing-projects.png)
+![](../.gitbook/assets/sequencing-projects.png)
 
 | Column Name       | Description                                |
 | ----------------- | ------------------------------------------ |
@@ -15,8 +15,8 @@ In this section there are two possibilities
 
 * Open report, prediction of populations and variants table by samples
 
-![](../../.gitbook/assets/sequencing-projects-samples.png)
+![](../.gitbook/assets/sequencing-projects-samples.png)
 
 * Display variants for all samples
 
-![](../../.gitbook/assets/sequencing-projects-variants.png)
+![](../.gitbook/assets/sequencing-projects-variants.png)
