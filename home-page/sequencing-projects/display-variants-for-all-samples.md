@@ -1,4 +1,12 @@
-# Page 1
+# Display variants for all samples
+
+By clicking on the `open project` button, the initial page will show the following information (this is an example and the number of variants may be different in other projects)
+
+![](../../.gitbook/assets/open-project.png)
+
+When you click the `OK` button or press `ENTER` on your keyboard, you will see the structure of the page to start applying filters to your project
+
+
 
 | Field Name             | Description                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
