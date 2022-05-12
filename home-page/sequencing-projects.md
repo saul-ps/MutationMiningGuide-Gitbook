@@ -1,12 +1,22 @@
 # Sequencing Projects
 
-| Field Name             | Description                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chromosome             | Chromosome location of the variants                                                                                                                                                                                                                                                                                                                                                                                         |
-| Position               | Base position of the variants, please insert a genomic interval                                                                                                                                                                                                                                                                                                                                                             |
-| DP / AF                | <p>DP: Mean of sequencing depth of variants</p><p></p><p>AF: Allele frequency on population sequencing projects</p>                                                                                                                                                                                                                                                                                                         |
-| Gene.refGene           | Insert (+) or select Gene regions identified with their symbol where variants could be located                                                                                                                                                                                                                                                                                                                              |
-| CLNDN                  | Insert (+) or select [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) terms associated with target variations.                                                                                                                                                                                                                                                                                                              |
-| Func.refGene           | <p></p><p>Position of the variant relative to the nearest gene</p><ul><li>Exonic: in the coding region of the gene</li><li>Splicing: in the 2-bp of the “splicing junction”</li><li>NcRNA: over a non-coding transcript</li><li>UTR5, UTR3: in a 5' or 3' non-translated region</li><li>upstream/donwstream: less than 1kb from the start or end of the transcription</li><li>Intergenic: in an intergenic region</li></ul> |
-| ExonicFunc.refGene     | <p></p><p>Variant effect on exonic regions</p><ul><li>Synonymous: the variant does not change the resulting protein</li><li>Missense: the variant change one amino acid on the resulting protein</li><li>Nonsense: the variant generates a stop codon</li><li>FrameshiftDeletion/Insertion: the variant cause a change on the reading frame</li></ul>                                                                       |
-| Samples \[+] Genotype  | Associate samples to genotypes. Please, move the samples to the corresponding genotype and press the filter button                                                                                                                                                                                                                                                                                                          |
+For this guide we have used the project PRJEB41088\_AngelmanTrio (link), each user will have an associated project that may be different from others, but the structure is the same for all of them
+
+![](../.gitbook/assets/sequencing-projects.png)
+
+| Field Name        | Description                                |
+| ----------------- | ------------------------------------------ |
+| Date              | Date of project creation                   |
+| Project Name      | Name assigned to the project               |
+| Number of samples | Number of samples contained in the project |
+| Open button       | Display project variants                   |
+
+In this section there are two possibilities
+
+* Open report, prediction of populations and variants by samples
+
+![](../.gitbook/assets/sequencing-projects-samples.png)
+
+* Display variants for all samples
+
+![](../.gitbook/assets/sequencing-projects-variants.png)
