@@ -4,4 +4,6 @@ If you want to log in to our web application, you must click on the login or acc
 
 ![](.gitbook/assets/how-to-access.png)
 
-Una vez has seleccionado esta opción ingresaremos el email y contraseña proporcionado por el servicio de Bioinformática de la Universidad de Salamanca en la siguiente pantalla
+Once you have selected this option we will enter the email and password provided by the Bioinformatics service of the University of Salamanca in the [following screen](https://mutationmining.usal.es/login)
+
+![](.gitbook/assets/how-to-access-login.png)
