@@ -17,7 +17,7 @@ In this section there are two possibilities
 
 ![](../.gitbook/assets/sequencing-projects-variants.png)
 
-* [Open report](sequencing-projects/display-variants-for-samples/), prediction of populations and variants table by samples
+* Open report, prediction of populations and variants [table by samples](sequencing-projects/display-variants-for-samples/)
 
 ![](../.gitbook/assets/sequencing-projects-samples.png)
 
