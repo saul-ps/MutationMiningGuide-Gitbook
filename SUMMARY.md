@@ -5,3 +5,7 @@
 * [Home Page](home-page/README.md)
   * [Sequencing Projects](home-page/sequencing-projects.md)
     * [Display variants for all samples](home-page/page-1.md)
+    * [Display variants for samples](home-page/sequencing-projects/display-variants-for-samples/README.md)
+      * [Mutations](home-page/sequencing-projects/display-variants-for-samples/mutations.md)
+      * [Populations](home-page/sequencing-projects/display-variants-for-samples/populations.md)
+  * [Filtered Variants](home-page/filtered-variants.md)

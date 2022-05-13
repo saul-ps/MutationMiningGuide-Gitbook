@@ -13,10 +13,10 @@ For this guide we have used the project PRJEB41088\_AngelmanTrio (link), each us
 
 In this section there are two possibilities
 
-* Open report, prediction of populations and variants table by samples
+* [Open report](sequencing-projects/display-variants-for-samples/), prediction of populations and variants table by samples
 
 ![](../.gitbook/assets/sequencing-projects-samples.png)
 
-* Display variants for all samples
+* [Display variants for all samples](page-1.md)
 
 ![](../.gitbook/assets/sequencing-projects-variants.png)
