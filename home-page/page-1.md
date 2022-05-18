@@ -36,7 +36,7 @@ In this section the selected filters will be displayed
 ### Section 4 (Filter buttons)
 
 | Name button | Action |
-| --- | --- |
+| :---: | --- |
 | ![](../.gitbook/assets/button-back-arrow.png) | Back to previous page |
 | ![](../.gitbook/assets/button-save.png) | Save project in the filtered variants section of the home page |
 | ![](../.gitbook/assets/button-template.png) | Save the currently selected filters to the project and add this option to the "Template filters" drop-down list |
