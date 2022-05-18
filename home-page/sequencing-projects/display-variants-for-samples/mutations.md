@@ -32,7 +32,25 @@ Initially, only variants that include the word pathogen in the CLINSG column are
 
 ![](../../../.gitbook/assets/mutations-clinical-genome.png)
 
-CLNSIG
+| Column name        | Description                                                                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chr                | Chromosome number                                                                                                                                                       |
+| Start              | Start position                                                                                                                                                          |
+| Ref                | Reference allele                                                                                                                                                        |
+| Alt                | Alternative allele                                                                                                                                                      |
+| Genotype           | Sample genotype                                                                                                                                                         |
+| IGV                | Integrative Genomic Viewer                                                                                                                                              |
+| avsnp150           | Single-nucleotide polymorphism name                                                                                                                                     |
+| IDClinvar          | Variation ID in Clinvar                                                                                                                                                 |
+| Func.refGene       | Regions (e.g., exonic, intronic, non-coding RNA)) that one variant hits                                                                                                 |
+| Gene.refGene       | Gene name associated with one variant                                                                                                                                   |
+| AF\_popmax         | Maximum allele frequency across populations                                                                                                                             |
+| CLNDN              | Clinical Disease Name                                                                                                                                                   |
+| CLNSIG             | Clinical Significance                                                                                                                                                   |
+| ExonicFunc.refGene | Exonic variant function, e.g., nonsynonymous, synonymous, frameshift insertion                                                                                          |
+| CLNREVSTAT         | Clinical Review Status                                                                                                                                                  |
+| AAChange.refGene   | Amino acid change. For example, SAMD11:NM\_152486:exon10:c.T1027C:p.W343R stands for gene name, Known RefSeq accession, region, cDNA level change, protein level change |
+| CLNDISDB           | Clinical Source Database and ID                                                                                                                                         |
 
 ### PharmGKB
 
