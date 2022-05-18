@@ -32,6 +32,8 @@ Initially, only variants that include the word pathogen in the CLINSG column are
 
 ![](../../../.gitbook/assets/mutations-clinical-genome.png)
 
+CLNSIG
+
 ### PharmGKB
 
 ![](../../../.gitbook/assets/mutations-pharmgkb.png)
