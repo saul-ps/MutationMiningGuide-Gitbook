@@ -1,5 +1,7 @@
 # Filtered Variants
 
+In this page we will be able to observe the filtered projects saved by the user.
+
 ![](../.gitbook/assets/filtered-variants.png)
 
 | Column Name       | Description                                             |
