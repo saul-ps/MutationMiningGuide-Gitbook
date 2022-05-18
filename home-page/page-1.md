@@ -37,7 +37,7 @@ In this section the selected filters will be displayed
 
 | Name button     | Action                                                                                                          |
 | --------------- | --------------------------------------------------------------------------------------------------------------- |
-| Back arrow      | Back to previous page                                                                                           |
+|                 | Back to previous page                                                                                           |
 | Save            | Save project in the filtered variants section of the home page                                                  |
 | Create template | Save the currently selected filters to the project and add this option to the "Template filters" drop-down list |
 | Export          | Export current filtered variants in excel format                                                                |
@@ -47,3 +47,15 @@ In this section the selected filters will be displayed
 ### Section 5 (Variants table)
 
 Table of variants
+
+![](../.gitbook/assets/button-back-arrow.png)
+
+![](../.gitbook/assets/button-save.png)
+
+![](../.gitbook/assets/button-template.png)
+
+![](../.gitbook/assets/button-export.png)
+
+![](../.gitbook/assets/button-clean-filters.png)
+
+![](../.gitbook/assets/button-filter-data.png)
