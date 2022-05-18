@@ -12,6 +12,10 @@ When we click on the number of samples, a table similar to the following is disp
 
 In this page we can perform different options&#x20;
 
+![](../../../.gitbook/assets/button-mutations.png)
+
+![](../../../.gitbook/assets/button-populations.png)
+
 ### View variants table for sample(s)
 
 * **Select one or more samples** **and display the variants table**. How to do this? Click on the check box next to the sample name and then click on the Browse selected samples button. Then a window similar to the one explained in the [display variants for all samples](../../page-1.md) section will appear, but only the selected samples will be displayed
