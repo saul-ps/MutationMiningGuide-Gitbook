@@ -8,6 +8,12 @@ This page shows the project variants related to the following genomic databases
 
 Initially, only variants that include the word pathogen in the CLINSG column are shown, to show all variants click on the "show all data" button.
 
+| Column name | Description |
+| ----------- | ----------- |
+| Chr         | Hola        |
+| Otro        | tal         |
+|             |             |
+
 ### Clinical Genome
 
 ![](../../../.gitbook/assets/mutations-clinical-genome.png)
