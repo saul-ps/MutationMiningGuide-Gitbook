@@ -8,13 +8,9 @@ When we click on the number of samples, a table similar to the following is disp
 | ----------------- | ----------------------------------------------------------- |
 | Sample name       | Name of sample                                              |
 | Results Report    | Number of total variants in each genomic database           |
-| Individual Report | See [mutations](./#option-2) and [populations](./#option-3) |
+| Individual Report | See [![](../../../.gitbook/assets/button-mutations.png)](./#option-2) and [![](../../../.gitbook/assets/button-populations.png)](./#option-3) |
 
 In this page we can perform different options&#x20;
-
-![](../../../.gitbook/assets/button-mutations.png)
-
-![](../../../.gitbook/assets/button-populations.png)
 
 ### View variants table for sample(s)
 
