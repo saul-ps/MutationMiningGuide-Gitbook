@@ -35,27 +35,15 @@ In this section the selected filters will be displayed
 
 ### Section 4 (Filter buttons)
 
-| Name button     | Action                                                                                                          |
-| --------------- | --------------------------------------------------------------------------------------------------------------- |
-|                 | Back to previous page                                                                                           |
-| Save            | Save project in the filtered variants section of the home page                                                  |
-| Create template | Save the currently selected filters to the project and add this option to the "Template filters" drop-down list |
-| Export          | Export current filtered variants in excel format                                                                |
-| Clean Filters   | Delete all selected filters and restart the project                                                             |
-| Filter Data     | Filter the variants with the filters selected in section 3                                                      |
+| Name button | Action |
+| --- | --- |
+| ![](../.gitbook/assets/button-back-arrow.png) | Back to previous page |
+| ![](../.gitbook/assets/button-save.png) | Save project in the filtered variants section of the home page |
+| ![](../.gitbook/assets/button-template.png) | Save the currently selected filters to the project and add this option to the "Template filters" drop-down list |
+| ![](../.gitbook/assets/button-export.png) | Export current filtered variants in excel format |
+| ![](../.gitbook/assets/button-clean-filters.png) | Delete all selected filters and restart the project |
+| ![](../.gitbook/assets/button-filter-data.png) | Filter the variants with the filters selected in section 3 |
 
 ### Section 5 (Variants table)
 
 Table of variants
-
-![](../.gitbook/assets/button-back-arrow.png)
-
-![](../.gitbook/assets/button-save.png)
-
-![](../.gitbook/assets/button-template.png)
-
-![](../.gitbook/assets/button-export.png)
-
-![](../.gitbook/assets/button-clean-filters.png)
-
-![](../.gitbook/assets/button-filter-data.png)
