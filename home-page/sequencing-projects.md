@@ -12,7 +12,7 @@ For this guide we have used the project PRJEB41088\_AngelmanTrio (link), each us
 | Number of samples | Number of samples contained in the project            |
 | Mining            | Useful buttons to display different results           |
 
-### In this section there are three possibilities
+#### In this section there are three possibilities
 
 * [Display variants for all samples](page-1.md)
 
