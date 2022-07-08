@@ -4,5 +4,7 @@ This page shows the result of the text search in the genomic databases. If you w
 
 Here is a simple example on how to use this tool
 
-1. Enter the text in section 1 and press the search button ![](../../.gitbook/assets/text-search-table.png)
-2. Show results with the searched text highlighted ![](../../.gitbook/assets/text-search-table-result.png)
+1. Enter the text in section 1 and press the search button
+![](../../.gitbook/assets/text-search-table.png)
+2. Show results with the searched text highlighted
+![](../../.gitbook/assets/text-search-table-result.png)
