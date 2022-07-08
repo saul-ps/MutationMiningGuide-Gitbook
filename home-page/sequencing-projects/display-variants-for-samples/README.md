@@ -4,13 +4,15 @@ When we click on the number of samples, a table similar to the following is disp
 
 ![](../../../.gitbook/assets/samples-table.png)
 
-| Name column       | Description                                                 |
-| ----------------- | ----------------------------------------------------------- |
-| Sample name       | Name of sample                                              |
-| Results Report    | Number of total variants in each genomic database           |
+| Name column       | Description                                                                                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Sample name       | Name of sample                                                                                                                            |
+| Results Report    | Number of total variants in each genomic database                                                                                         |
 | Individual Report | [![](../../../.gitbook/assets/button-mutations.png)](./#mutations) [![](../../../.gitbook/assets/button-populations.png)](./#populations) |
 
-In this page we can perform different options&#x20;
+In this page we can perform different options
+
+![](../../../.gitbook/assets/button-text-search.png)
 
 ### View variants table for sample(s)
 
