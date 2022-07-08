@@ -8,4 +8,5 @@
     * [Display variants for samples](home-page/sequencing-projects/display-variants-for-samples/README.md)
       * [Mutations](home-page/sequencing-projects/display-variants-for-samples/mutations.md)
       * [Populations](home-page/sequencing-projects/display-variants-for-samples/populations.md)
+    * [Text Search](home-page/sequencing-projects/text-search.md)
   * [Filtered Variants](home-page/filtered-variants.md)

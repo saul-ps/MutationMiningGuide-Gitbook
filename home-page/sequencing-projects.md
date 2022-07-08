@@ -4,14 +4,15 @@ For this guide we have used the project PRJEB41088\_AngelmanTrio (link), each us
 
 ![](../.gitbook/assets/sequencing-projects.png)
 
-| Column Name       | Description                                |
-| ----------------- | ------------------------------------------ |
-| Date              | Date of project creation                   |
-| Project Name      | Name assigned to the project               |
-| Number of samples | Number of samples contained in the project |
-| Open button       | Display project variants                   |
+| Column Name       | Description                                           |
+| ----------------- | ----------------------------------------------------- |
+| Date              | Date of project creation                              |
+| Project Name      | Name assigned to the project                          |
+| Methods           | Project description and versions used in its creation |
+| Number of samples | Number of samples contained in the project            |
+| Mining            | Useful buttons to display different results           |
 
-In this section there are two possibilities
+### In this section there are three possibilities
 
 * [Display variants for all samples](page-1.md)
 
@@ -21,3 +22,6 @@ In this section there are two possibilities
 
 ![](../.gitbook/assets/sequencing-projects-samples.png)
 
+* Genome tables [text search section](sequencing-projects/text-search.md)
+
+![](../.gitbook/assets/sequencing-projects-search-text.png)
