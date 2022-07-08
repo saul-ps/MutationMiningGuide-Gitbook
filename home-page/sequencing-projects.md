@@ -22,6 +22,6 @@ For this guide we have used the project PRJEB41088\_AngelmanTrio (link), each us
 
 ![](../.gitbook/assets/sequencing-projects-samples.png)
 
-* Genome tables [text search section](sequencing-projects/text-search.md)
+* Genomic tables [text search section](sequencing-projects/text-search.md)
 
 ![](../.gitbook/assets/sequencing-projects-search-text.png)

@@ -1,13 +1,13 @@
 # Display variants for samples
 
-When we click on the number of samples, a table similar to the following is displayed
+When we click on the number of samples or report button, a table similar to the following is displayed
 
 ![](../../../.gitbook/assets/samples-table.png)
 
-| Name column       | Description                                                                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| Sample name       | Name of sample                                                                                                                            |
-| Results Report    | Number of total variants in each genomic database                                                                                         |
+| Name column       | Description                                                                                                                                                                                                      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sample name       | Name of sample                                                                                                                                                                                                   |
+| Results Report    | Number of total variants in each genomic database                                                                                                                                                                |
 | Individual Report | [![](../../../.gitbook/assets/button-mutations.png)](./#mutations) [![](../../../.gitbook/assets/button-populations.png)](./#populations) [![](../../../.gitbook/assets/button-text-search.png)](./#text-search) |
 
 In this page we can perform different options
@@ -29,3 +29,9 @@ In this page we can perform different options
 * [View prediction of possible sample origins](populations.md)
 
 ![](../../../.gitbook/assets/samples-table-populations.png)
+
+### Text search
+
+* [Text search in genomic databases](../text-search.md)
+
+![](../../../.gitbook/assets/samples-table-text-search.png)
